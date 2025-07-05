@@ -1,1 +1,1 @@
-hello csc computer
+hello csc computer education
